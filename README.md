@@ -2,6 +2,7 @@
 <h3 align="center">Student UG</h3>
 <br>👀 I'm interested in the use of IT applications in renewable energy and ecological construction.
 <br>🌱 I’m currently learning Python, MERN, Java EE
+<br>🌱 fascinated by big data
 
 <br>📫 How to reach me **marcinedel@gmail.com**
 
